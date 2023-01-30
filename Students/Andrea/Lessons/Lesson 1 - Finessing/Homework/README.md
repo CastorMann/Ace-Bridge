@@ -11,10 +11,11 @@ North hand:
 
 
 South hand:
+
 ♠️ AQJT
 ♥️ A54
-♦️T95
-♣️A92
+♦️ T95
+♣️ A92
 
 South is declarer in 3NT so we need 9 tricks to make our contract. West leads the King of hearts. The lead likely suggests that west holds a nice heart suit, likely to have the Queen and the Jack as well as the king which was lead. Remember to make a plan, by starting to count sure tricks and then counting potential tricks. Is there any suit you could finesse in, and if so, how will you go about doing that. Remember that you have to play from weakness towards strength when finessing.
 
