@@ -31,9 +31,10 @@ North hand:
 
 
 South hand:
+
 ♠️ A5
 ♥️ J93
-♦️T953
-♣️9873
+♦️ T953
+♣️ 9873
 
 Here North is declaring 3NT, so we need 9 tricks this time as well. East leads the King of spades. Remember to count sure tricks and potential tricks. Think about how to maintain the lead in the right hand such that you can take the finesse that you need to make your contract enough times. Remember, to take a finesse, you need to start from weakness towards strength.
