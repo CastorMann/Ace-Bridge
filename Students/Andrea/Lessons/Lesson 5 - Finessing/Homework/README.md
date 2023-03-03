@@ -27,7 +27,7 @@ Count your tricks and try to decide wether or not we should finesse in spades. W
 
 Plan the play for the following deal (difficult): (B2)
 
-Contract 4 Spades, Declarer South, Lead King of ♥️
+Contract 4 Spades, Declarer South, Lead King of ♥️, followed by 2 more rounds of hearts and then a shift to the King of ♣️
 
 North hand:
 
