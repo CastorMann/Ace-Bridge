@@ -6,7 +6,7 @@ A suit combination is a set of cards divided between two hands, and the solution
 * AKJT98 - 32
 * AKT9   - 5432
 * AK987  - Q654
-* AKJT9  - Q876
+* AKT92  - Q876
 
 In the suit combinations above, assume that the left cards are in the north hand and that the right cards are in the south hand.
 
