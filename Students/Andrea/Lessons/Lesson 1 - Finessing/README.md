@@ -1,3 +1,5 @@
+January 23rd 2023
+
 # HOMEWORK
 
 We had no homework for this lesson.
@@ -13,3 +15,6 @@ Key learning points:
 * In order to finesse we play the cards in an order such that the opponent who holds the higher card that we are worried about, is forced to play a card before we do
 
 * Play from weakness towards strength in order to take a finesse
+
+
+Duration of lesson: 90 minutes.

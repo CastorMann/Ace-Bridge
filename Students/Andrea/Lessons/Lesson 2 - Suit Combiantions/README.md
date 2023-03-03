@@ -1,3 +1,5 @@
+January 30th 2023
+
 # HOMEWORK (FINESSING)
 
 We went through the two deals found in Homework/Deals for the previous lessons folder.
@@ -25,3 +27,7 @@ Key learning points:
 * A solution to a suit combination is the act of playing the cards in an order such that we maximize the likelyhood of us getting a specified amount of tricks.
 
 * A simple suit combination can sometimes be constructed such that the goal is to be 100% sure of winning all the tricks in that suit, such as the example we went through in the example deal.
+
+
+
+Duration of lesson: 90 minutes.
